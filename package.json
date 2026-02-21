@@ -1,6 +1,6 @@
 {
   "name": "@pleme-io/builder-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Universal builder infrastructure for drag-drop composition UIs (sequences, task lists, etc.)",
   "type": "module",
   "main": "./dist/index.js",
